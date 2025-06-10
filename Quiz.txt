@@ -4,3 +4,17 @@ push ขึ้น branch ของตัวเอง
 merge branch ของตัวเองเข้ากับ main
 push main
 
+กรณี push ไม่ได้
+1. fetch origin
+2. pull main
+3. switch ไปที่ branch ของตัวเอง
+4. rebase main
+    4.1 ถ้าไม่มี-conflict
+        4.1.1 rebase จบแล้ว
+    4.2 ถ้ามี-conflict
+        4.2.1 แก้ไข conflict
+        4.2.2 add conflict
+        4.2.3 rebase --continue
+5. switch main
+6. merge branch ของตัวเอง เข้า main
+7. push main
