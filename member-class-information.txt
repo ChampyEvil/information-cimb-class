@@ -10,29 +10,23 @@ Email: champ@odds.team
 Address: Nonthaburi
 
 ===================================
-<<<<<<< HEAD
 Name: Sup
 Email: pakin.r@cimbthai.com
 Address: Nonthaburi
 
 ===================================
-=======
 Name: Pad
 Email: poramet.p@cimbthai.com
 Address: Samutphakan
 
-<<<<<<< HEAD
+===================================
 Name: Beer
 Email: atichart.p@cimbthai.com
 Address: Bangkok
 
-===================================
-=======
 ===================================
 Name: Wai
 Email: wattana.s@cimbthai.com
 Address: Bangkok
 
 ===================================
->>>>>>> ff8bdbb47f53d166620ad7b96e439c57f2ac3325
->>>>>>> bc1d24885dafe030cf26341d6bbbfc6e57b8ea46
