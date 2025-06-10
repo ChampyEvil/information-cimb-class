@@ -35,8 +35,16 @@ Email: wattana.s@cimbthai.com
 Address: Bangkok
 
 ===================================
+<<<<<<< HEAD
 Name: aob
 Email: aob@cimb
 Address: Bangkok
 
 ===================================
+=======
+Name: Pong
+Email: Pong@cimbthai.com
+Address: Bangkok
+
+===================================
+>>>>>>> cimb-pong-information
