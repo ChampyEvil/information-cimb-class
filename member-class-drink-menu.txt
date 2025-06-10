@@ -5,10 +5,7 @@ Ole: Yusu Tea Soda
 Thirawuth: Pure water
 Sup: Pepsi
 Pad: Water
-<<<<<<< HEAD
 Beer: Coca-Cola
 Wai: Tea
 Aob: Coca-Cola
-=======
 Pong: Milk
->>>>>>> cimb-pong-information
