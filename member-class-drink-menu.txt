@@ -1,10 +1,7 @@
 Example
 
 Champ: Americano
-<<<<<<< HEAD
 Ole: Yusu Tea Soda
-=======
 Thirawuth: Pure water
 Pad: Water
 Wai: Tea
->>>>>>> ff8bdbb47f53d166620ad7b96e439c57f2ac3325
