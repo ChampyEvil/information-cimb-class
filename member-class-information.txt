@@ -14,4 +14,8 @@ Name: Pad
 Email: poramet.p@cimbthai.com
 Address: Samutphakan
 
+Name: Beer
+Email: atichart.p@cimbthai.com
+Address: Bangkok
+
 ===================================
