@@ -1,28 +1,8 @@
 Example
 
-Name: Champ
-Email: champ@odds.team
-Address: Nonthaburi
-
-===================================
-Name: Ole
-Email: apichart.cs7@gmail.com
+Name: aob
+Email: aob@cimb
 Address: Bangkok
-
-===================================
-Name: Thirawuth
-Email: champ@odds.team
-Address: Nonthaburi
-
-===================================
-Name: Sup
-Email: pakin.r@cimbthai.com
-Address: Nonthaburi
-
-===================================
-Name: Pad
-Email: poramet.p@cimbthai.com
-Address: Samutphakan
 
 ===================================
 Name: Beer
@@ -30,19 +10,14 @@ Email: atichart.p@cimbthai.com
 Address: Bangkok
 
 ===================================
-Name: Wai
-Email: wattana.s@cimbthai.com
-Address: Bangkok
+Name: Champ
+Email: champ@odds.team
+Address: Nonthaburi
 
 ===================================
-Name: aob
-Email: aob@cimb
-Address: Bangkok
-
-===================================
-Name: Pong
-Email: Pong@cimbthai.com
-Address: Bangkok
+Name: Mananchaya
+Email: mananchaya.aa@gmail.com
+Address: Sam Sen Nai
 
 ===================================
 Name: Nulek
@@ -50,13 +25,38 @@ Email: nulezar@gmail.com
 Address: Bangkok
 
 ===================================
+Name: Ole
+Email: apichart.cs7@gmail.com
+Address: Bangkok
+
+===================================
+Name: Pad
+Email: poramet.p@cimbthai.com
+Address: Samutphakan
+
+===================================
+Name: Pong
+Email: Pong@cimbthai.com
+Address: Bangkok
+
+===================================
+Name: Sup
+Email: pakin.r@cimbthai.com
+Address: Nonthaburi
+
+===================================
 Name: Tatum
 Email: cherdsit@gmail.com
 Address: Nonthaburi
 
 ===================================
-Name: Mananchaya
-Email: mananchaya.aa@gmail.com
-Address: Sam Sen Nai
+Name: Thirawuth
+Email: champ@odds.team
+Address: Nonthaburi
+
+===================================
+Name: Wai
+Email: wattana.s@cimbthai.com
+Address: Bangkok
 
 ===================================
