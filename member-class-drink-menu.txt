@@ -1,6 +1,7 @@
 Example
 
 Champ: Americano
+Ole: Yusu Tea Soda
 Thirawuth: Pure water
 Pad: Water
 Beer: Coca-Cola
