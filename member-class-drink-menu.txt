@@ -1,14 +1,12 @@
-Example
-
-Champ: Americano
-Ole: Yusu Tea Soda
-Thirawuth: Pure water
-Sup: Pepsi
-Pad: Water
-Beer: Coca-Cola
-Wai: Tea
 Aob: Coke
-Pong: Milk
-Nulek: Sprite
-Tatum: Green Tea
+Beer: Coca-Cola
+Champ: Americano
 Mananchaya: Matcha Latta
+Nulek: Sprite
+Ole: Yusu Tea Soda
+Pad: Water
+Pong: Milk
+Sup: Pepsi
+Tatum: Green Tea
+Thirawuth: Pure water
+Wai: Tea
