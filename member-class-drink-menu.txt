@@ -2,3 +2,4 @@ Example
 
 Champ: Americano
 Thirawuth: Pure water
+Sup: Pepsi
