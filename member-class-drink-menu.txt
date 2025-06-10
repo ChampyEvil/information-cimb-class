@@ -2,3 +2,4 @@ Example
 
 Champ: Americano
 Thirawuth: Pure water
+Pad: Water
