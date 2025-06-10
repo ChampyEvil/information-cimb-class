@@ -10,4 +10,5 @@ Wai: Tea
 Aob: Coke
 Pong: Milk
 Nulek: Sprite
+Tatum: Green Tea
 Mananchaya: Matcha Latta
