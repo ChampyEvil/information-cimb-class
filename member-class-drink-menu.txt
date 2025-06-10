@@ -1,8 +1,13 @@
 Example
 
 Champ: Americano
+Ole: Yusu Tea Soda
 Thirawuth: Pure water
+Sup: Pepsi
 Pad: Water
 Beer: Coca-Cola
 Wai: Tea
 Aob: Coke
+Pong: Milk
+Nulek: Sprite
+Mananchaya: Matcha Latta

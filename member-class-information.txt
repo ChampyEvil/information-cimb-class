@@ -5,8 +5,18 @@ Email: champ@odds.team
 Address: Nonthaburi
 
 ===================================
+Name: Ole
+Email: apichart.cs7@gmail.com
+Address: Bangkok
+
+===================================
 Name: Thirawuth
 Email: champ@odds.team
+Address: Nonthaburi
+
+===================================
+Name: Sup
+Email: pakin.r@cimbthai.com
 Address: Nonthaburi
 
 ===================================
@@ -27,6 +37,22 @@ Address: Bangkok
 ===================================
 Name: aob
 Email: aob@cimb
-Address: bkk
+Address: Bangkok
+
+===================================
+Name: Pong
+Email: Pong@cimbthai.com
+Address: Bangkok
+
+===================================
+Name: Nulek
+Email: nulezar@gmail.com
+Address: Bangkok
+
+===================================
+ 
+Name: Mananchaya
+Email: mananchaya.aa@gmail.com
+Address: Sam Sen Nai
 
 ===================================
