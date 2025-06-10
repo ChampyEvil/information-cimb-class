@@ -27,6 +27,6 @@ Address: Bangkok
 ===================================
 Name: aob
 Email: aob@cimb
-Address: bkk
+Address: Bangkok
 
 ===================================
