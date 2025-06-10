@@ -4,10 +4,4 @@ Name: Champ
 Email: champ@odds.team
 Address: Nonthaburi
 
-Name: Nine
-Email: kriratik@odds.team
-Address: Bangkok
-
-
-Name: Beer
-Email: atichart.p@cimbthai.com
+===================================
