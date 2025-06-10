@@ -3,3 +3,7 @@ Example
 Name: Champ
 Email: champ@odds.team
 Address: Nonthaburi
+
+Name: Nine
+Email: kriratik@odds.team
+Address: Bangkok
