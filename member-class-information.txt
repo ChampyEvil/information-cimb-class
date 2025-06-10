@@ -8,3 +8,20 @@ Address: Nonthaburi
 Name: Ole
 Email: apichart.cs7@gmail.com
 Address: Bangkok
+
+===================================
+Name: Thirawuth
+Email: champ@odds.team
+Address: Nonthaburi
+
+===================================
+Name: Pad
+Email: poramet.p@cimbthai.com
+Address: Samutphakan
+
+===================================
+Name: Wai
+Email: wattana.s@cimbthai.com
+Address: Bangkok
+
+===================================
