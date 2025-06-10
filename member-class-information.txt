@@ -15,3 +15,18 @@ Email: poramet.p@cimbthai.com
 Address: Samutphakan
 
 ===================================
+Name: Beer
+Email: atichart.p@cimbthai.com
+Address: Bangkok
+
+===================================
+Name: Wai
+Email: wattana.s@cimbthai.com
+Address: Bangkok
+
+===================================
+Name: aob
+Email: aob@cimb
+Address: bkk
+
+===================================

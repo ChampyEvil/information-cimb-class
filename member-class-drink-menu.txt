@@ -3,3 +3,6 @@ Example
 Champ: Americano
 Thirawuth: Pure water
 Pad: Water
+Beer: Coca-Cola
+Wai: Tea
+Aob: Coke
