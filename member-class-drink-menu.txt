@@ -7,4 +7,8 @@ Pad: Water
 Beer: Coca-Cola
 =======
 Wai: Tea
+<<<<<<< HEAD
 >>>>>>> ff8bdbb47f53d166620ad7b96e439c57f2ac3325
+=======
+Aob: Coke
+>>>>>>> 116a386 (add aob info in drink-menu and info fie)
