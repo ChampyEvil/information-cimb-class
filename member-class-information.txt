@@ -14,25 +14,19 @@ Name: Pad
 Email: poramet.p@cimbthai.com
 Address: Samutphakan
 
-<<<<<<< HEAD
+===================================
 Name: Beer
 Email: atichart.p@cimbthai.com
 Address: Bangkok
 
-===================================
-=======
 ===================================
 Name: Wai
 Email: wattana.s@cimbthai.com
 Address: Bangkok
 
 ===================================
-<<<<<<< HEAD
->>>>>>> ff8bdbb47f53d166620ad7b96e439c57f2ac3325
-=======
 Name: aob
 Email: aob@cimb
 Address: bkk
 
 ===================================
->>>>>>> 116a386 (add aob info in drink-menu and info fie)
