@@ -5,3 +5,4 @@ Ole: Yusu Tea Soda
 Thirawuth: Pure water
 Sup: Pepsi
 Pad: Water
+Wai: Tea
