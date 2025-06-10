@@ -5,15 +5,6 @@ Email: champ@odds.team
 Address: Nonthaburi
 
 ===================================
-Name: Thirawuth
-Email: champ@odds.team
-Address: Nonthaburi
-
-===================================
-Name: Pad
-Email: poramet.p@cimbthai.com
-Address: Samutphakan
-
 Name: Beer
 Email: atichart.p@cimbthai.com
 Address: Bangkok
