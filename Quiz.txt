@@ -1,0 +1,6 @@
+เพิ่ม information ของตัวเอง ใน member-class-information.txt
+เพิ่ม drink menu ของตัวเอง ใน member-class-drink-menu.txt
+push ขึ้น branch ของตัวเอง
+merge branch ของตัวเองเข้ากับ main
+push main
+
